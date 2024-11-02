@@ -55,6 +55,4 @@ If you encounter any issues while using the JSON Import & Export by Drudewerk Ad
 - Ensure your JSON data is well-formed and valid.
 - Check your internet connection when importing large files.
 
-## Conclusion
-
-The JSON Import & Export by Drudewerk Add-On for Google Sheets is an essential tool for anyone who regularly works with JSON data. Its intuitive interface and robust functionality simplify the process of importing and exporting JSON files, making it an invaluable addition to your Google Sheets toolkit.
+If you have any questions, run into issues, or need assistance with the add-on, contact [Support](./support)
