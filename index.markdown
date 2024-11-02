@@ -56,3 +56,6 @@ If you encounter any issues while using the JSON Import & Export by Drudewerk Ad
 - Check your internet connection when importing large files.
 
 If you have any questions, run into issues, or need assistance with the add-on, contact [Support](./support)
+
+
+Here you can learn about our [Privacy Policy](./privacy).
