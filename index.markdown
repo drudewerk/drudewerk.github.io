@@ -20,7 +20,7 @@ The **JSON Import & Export by Drudewerk Add-On** is a powerful tool designed to 
 1. Open **Google Sheets**™.
 2. Navigate to the **Extensions** menu.
 3. Click on **Add-ons** and then select **Get add-ons**.
-4. Search for **JSON Import & Export by Drudewerk Add-On** in the G Suite Marketplace.
+4. Search for **JSON Import & Export by Drudewerk** Add-On in the G Suite Marketplace.
 5. Click on the add-on and select **Install**.
 6. Follow the prompts to authorize and complete the installation.
 
@@ -29,7 +29,7 @@ The **JSON Import & Export by Drudewerk Add-On** is a powerful tool designed to 
 ### Importing JSON Data
 
 1. Click on the **Extensions** menu.
-2. Select **JSON Import & Export by Drudewerk Add-On** and choose **Import JSON**.
+2. Select **JSON Import & Export by Drudewerk** and choose **Import JSON**.
 3. Enter the URL of the JSON file or upload a JSON file from your computer.
 4. Map the JSON keys to your desired columns in the spreadsheet.
 5. Click **Import JSON files**, and the data will be populated into your sheet.
@@ -38,7 +38,7 @@ The **JSON Import & Export by Drudewerk Add-On** is a powerful tool designed to 
 
 1. Organize your data in the Google Sheets™.
 2. Click on the **Extensions** menu.
-3. Select **JSON Import & Export by Drudewerk Add-On** and choose **Export as JSON file**.
+3. Select **JSON Import & Export by Drudewerk** and choose **Export as JSON file**.
 4. Configure the export settings as needed.
 5. Click **Export**, and your spreadsheet data will be converted and downloaded as a JSON file.
 
