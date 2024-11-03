@@ -4,11 +4,11 @@ title: Terms of Service
 permalink: /tos/
 ---
 
-# Terms of Service for JSON Import & Export by Drudewerk Add-On for Google Sheets
+# Terms of Service for JSON Import & Export by Drudewerk Add-On for Google Sheets™
 
 ## Introduction
 
-These Terms of Service govern your use of the JSON Import & Export by Drudewerk add-on for Google Sheets (the "Add-On"). By using the Add-On, you agree to these Terms. If you do not agree, please do not use the Add-On.
+These Terms of Service govern your use of the JSON Import & Export by Drudewerk add-on for Google Sheets™ (the "Add-On"). By using the Add-On, you agree to these Terms. If you do not agree, please do not use the Add-On.
 
 ## No Responsibility for Negative Outcomes
 

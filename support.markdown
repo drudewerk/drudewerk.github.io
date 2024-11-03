@@ -6,7 +6,7 @@ permalink: /support/
 
 # JSON Import & Export by Drudewerk Support
 
-Thank you for using the JSON Import & Export by Drudewerk Add-on for Google Sheets!
+Thank you for using the JSON Import & Export by Drudewerk Add-on for Google Sheets™!
 
 If you have any questions, run into issues, or need assistance with the add-on, we're here to help.
 

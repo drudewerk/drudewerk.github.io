@@ -14,7 +14,7 @@ This Privacy Policy outlines the practices of the JSON Import & Export by Drudew
 
 ## Data Collection and Use
 
-The JSON Import & Export by Drudewerk Add-On is designed to enhance your experience with Google Sheets by allowing you to import and export JSON files. Importantly, the Add-On does **not** store any user data. 
+The JSON Import & Export by Drudewerk Add-On is designed to enhance your experience with Google Sheets™ by allowing you to import and export JSON files. Importantly, the Add-On does **not** store any user data. 
 
 ### Data Processing
 
