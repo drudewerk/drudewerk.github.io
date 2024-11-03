@@ -33,11 +33,11 @@ The **JSON Import & Export by Drudewerk Add-On** is a powerful tool designed to 
 
 1. Click on the **Extensions** menu.
 2. Select **JSON Import & Export by Drudewerk** and choose **Import JSON files**.
-3. Browse or drag files on the panel
-4. Check import options
+3. Browse or drag files on the panel.
+4. Check import options.
 5. Click **Import**, and the data will be populated into your sheet.
 
-To understand how it works, try to download and import this <a href="/sample.json" download>JSON file</a>
+To understand how it works, try to download and import this <a href="/sample.json" download>JSON file</a>.
 
 ### Exporting Data to JSON
 
@@ -60,7 +60,7 @@ If you encounter any issues while using the JSON Import & Export by Drudewerk Ad
 - Ensure your JSON data is well-formed and valid.
 - Check your internet connection when importing large files.
 
-If you have any questions, run into issues, or need assistance with the add-on, contact [Support](/support)
+If you have any questions, run into issues, or need assistance with the add-on, contact [Support](/support).
 
 ## Legal
 
