@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
   repository_url: "https://github.com/drudewerk/drudejson"
+  is_project_page: true
 
 # twitter_username: jekyllrb
 # github_username: 
