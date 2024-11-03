@@ -4,7 +4,8 @@ title: Terms of Service
 permalink: /tos/
 ---
 
-# Terms of Service for JSON Import & Export by Drudewerk Add-On for Google Sheets™
+# Terms of Service 
+##### For JSON Import & Export by Drudewerk Add-On for Google Sheets™
 
 ## Introduction
 

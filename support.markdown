@@ -4,15 +4,11 @@ title: Support
 permalink: /support/
 ---
 
-# JSON Import & Export by Drudewerk Support
+# Support
 
-Thank you for using the JSON Import & Export by Drudewerk Add-on for Google Sheets™!
+Thank you for using JSON Import & Export by Drudewerk Add-on for Google Sheets™!
 
-If you have any questions, run into issues, or need assistance with the add-on, we're here to help.
-
-## How to Get Support
-
-You can reach our support team by sending an email to:
+If you have any questions, run into issues, or need assistance with the add-on, you can reach our support team by sending an email to:
 
 **[info@drudewerk.com](mailto:info@drudewerk.com)**
 

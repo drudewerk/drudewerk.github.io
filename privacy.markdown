@@ -4,7 +4,8 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Privacy Policy for JSON Import & Export by Drudewerk Add-On
+# Privacy Policy
+##### For JSON Import & Export by Drudewerk Add-On for Google Sheets™
 
 Effective Date: 01.11.2024
 

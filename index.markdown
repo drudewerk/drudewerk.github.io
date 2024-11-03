@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
 The **JSON Import & Export by Drudewerk Add-On** is a powerful tool designed to enhance your experience with Google Sheets™ by providing import and export capabilities for JSON files. With this add-on, you can easily integrate JSON data into your spreadsheets, making data analysis and manipulation more efficient and intuitive.
@@ -55,7 +55,7 @@ If you encounter any issues while using the JSON Import & Export by Drudewerk Ad
 - Ensure your JSON data is well-formed and valid.
 - Check your internet connection when importing large files.
 
-If you have any questions, run into issues, or need assistance with the add-on, contact [Support](./support)
+If you have any questions, run into issues, or need assistance with the add-on, contact [Support](/support)
 
-
-Here you can learn about our [Privacy Policy](./privacy).
+## Legal
+Here you can learn about our [Privacy Policy](/privacy) and [Terms of Service](/tos).

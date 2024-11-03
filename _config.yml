@@ -24,12 +24,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   JSON Import & Export by Drudewerk: Google Sheets™ add-on
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+github:
+  repository_url: "https://github.com/drudewerk/drudejson"
+
 # twitter_username: jekyllrb
 # github_username: 
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/slate@v0.2.0
+
 plugins:
+  - jekyll-remote-theme
 #  - jekyll-feed
 
 # Exclude from processing.

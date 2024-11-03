@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header_wrap {
+    #project_title {
+        font-size: 32px;  
+
+        a {
+            color: #fff;
+            text-decoration: none;
+
+            :hover {
+                text-decoration: none;
+            }
+        }
+    }
+}
