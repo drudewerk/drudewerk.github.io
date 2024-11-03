@@ -1,0 +1,87 @@
+[
+    {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "region": "North America",
+    "population": 331002651,
+    "languages": ["English"],
+    "major_cities": [
+        {
+        "name": "New York",
+        "population": 8419600
+        },
+        {
+        "name": "Los Angeles",
+        "population": 3980400
+        },
+        {
+        "name": "Chicago",
+        "population": 2716000
+        }
+    ]
+    },
+    {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "North America",
+    "population": 37742154,
+    "languages": ["English", "French"],
+    "major_cities": [
+        {
+        "name": "Toronto",
+        "population": 2930000
+        },
+        {
+        "name": "Montreal",
+        "population": 1780000
+        },
+        {
+        "name": "Vancouver",
+        "population": 631000
+        }
+    ]
+    },
+    {
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "population": 65273511,
+    "languages": ["French"],
+    "major_cities": [
+        {
+        "name": "Paris",
+        "population": 2148000
+        },
+        {
+        "name": "Marseille",
+        "population": 861635
+        },
+        {
+        "name": "Lyon",
+        "population": 515695
+        }
+    ]
+    },
+    {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "population": 126476461,
+    "languages": ["Japanese"],
+    "major_cities": [
+        {
+        "name": "Tokyo",
+        "population": 37400068
+        },
+        {
+        "name": "Osaka",
+        "population": 8839469
+        },
+        {
+        "name": "Nagoya",
+        "population": 2295639
+        }
+    ]
+    }
+]
+

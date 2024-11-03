@@ -37,6 +37,8 @@ The **JSON Import & Export by Drudewerk Add-On** is a powerful tool designed to 
 4. Check import options
 5. Click **Import**, and the data will be populated into your sheet.
 
+To understand how it works, try to download and import this <a href="/sample.json" download>JSON file</a>
+
 ### Exporting Data to JSON
 
 1. Organize your data in the Google Sheets™.
