@@ -28,11 +28,14 @@ The **JSON Import & Export by Drudewerk Add-On** is a powerful tool designed to 
 
 ### Importing JSON Data
 
+<img src="/import1.png" width="300">
+<img src="/import2.png" width="300">
+
 1. Click on the **Extensions** menu.
-2. Select **JSON Import & Export by Drudewerk** and choose **Import JSON**.
-3. Enter the URL of the JSON file or upload a JSON file from your computer.
-4. Map the JSON keys to your desired columns in the spreadsheet.
-5. Click **Import JSON files**, and the data will be populated into your sheet.
+2. Select **JSON Import & Export by Drudewerk** and choose **Import JSON files**.
+3. Browse or drag files on the panel
+4. Check import options
+5. Click **Import**, and the data will be populated into your sheet.
 
 ### Exporting Data to JSON
 
