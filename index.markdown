@@ -17,12 +17,17 @@ The **JSON Import & Export by Drudewerk Add-On** is a powerful tool designed to 
 
 ## Installation
 
-1. Open **Google Sheets**™.
+1. Open **Google Sheets**™
 2. Navigate to the **Extensions** menu.
 3. Click on **Add-ons** and then select **Get add-ons**.
 4. Search for **JSON Import & Export by Drudewerk** Add-On in the G Suite Marketplace.
 5. Click on the add-on and select **Install**.
 6. Follow the prompts to authorize and complete the installation.
+
+Alternative installation from marketplace 
+1. Navigate to navigate to [JSON Import & Export by Drudewerk Add-On](https://workspace.google.com/marketplace/app/json_import_export_by_drudewerk/490215435353) on marketplace
+2. Click install and follow the prompts to authorize and complete the installation
+3. Done! The extension is under Extensions menu in Google Sheets™ 
 
 ## How to Use
 
